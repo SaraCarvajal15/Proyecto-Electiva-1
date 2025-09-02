@@ -3,7 +3,7 @@
 La aplicación tendrá la siguientes pantallas
 
 1. Pantalla 1: Login
-![screen1](<img width="397" height="852" alt="image" src="https://github.com/user-attachments/assets/2a35fb3c-37df-4bf8-926d-bdfaabc9e522" />)
+![screen1](images/waze_app_screenshot.jpg)
 
 2. Pantalla 1: Inicio
 
@@ -14,7 +14,7 @@ La aplicación tendrá la siguientes pantallas
 
 4. Pantalla 1: Camara
 
-![screen1](<img width="414" height="851" alt="image" src="https://github.com/user-attachments/assets/2a7955e3-925a-4266-944b-452bff3b7f1e" />)
+![screen1](Captura de pantalla 2025-09-01 191823.png)
 
 
 # Referencias
