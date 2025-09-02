@@ -9,7 +9,7 @@ El objetivo es permitir que cada usuario tenga su cuenta personal, vinculada a s
 
 
 ### Inicio (Feed principal)
-En la parte superior aparece una alerta con el mensaje “¡Es hora de publicar! Muestra lo que estás haciendo en este momento exacto” y un botón para “Tomar foto”.
+En la parte superior aparece una alerta con el mensaje y un botón para “Tomar foto”, si es el momento.
 El feed muestra publicaciones de amigos con la estructura de la foto principal y la foto secundaria (tomada con la cámara frontal al mismo tiempo).
 Ejemplo en el mockup: un usuario publica una foto de su entorno y una selfie pequeña en la esquina superior izquierda.
 Barra de navegación inferior con tres íconos: cámara, inicio, y perfil.
