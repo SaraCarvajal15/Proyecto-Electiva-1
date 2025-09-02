@@ -3,18 +3,17 @@
 La aplicación tendrá la siguientes pantallas
 
 1. Pantalla 1: Login
-![screen1](login.png)
+![screen1](images/login.png)
 
 2. Pantalla 1: Inicio
 
-![screen1](inicio.png)
+![screen1](images/inicio.png)
 
 3. Pantalla 1: Perfil
-![screen1](perfil.png)
-
+![screen1](images/perfil.png)
 4. Pantalla 1: Camara
 
-![screen1](camara.png)
+![screen1](images/camara.png)
 
 
 # Referencias
